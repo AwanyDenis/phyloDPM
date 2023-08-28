@@ -33,7 +33,6 @@
 #' @return Returns a posterior estimates for effects of each OTU (microbiome taxa).
 #' @export
 
-return(list(out.all = data.frame(post.est), beta=as.numeric(post.est[1:(ncol(Beta)+1),'Coef'])))
 
 # ===================================================
 #                    BEGINNING OF MAIN
