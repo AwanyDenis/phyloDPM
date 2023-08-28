@@ -1,6 +1,6 @@
 Package: phyloDPM
 Type: Package
-Title: Micobiome abundance analysis package.
+Title: Micobiome abundance analysis package
 Version: 1.0
 Author: Denis Awany
 Maintainer: Denis Awany <awanydenis@gmail.com>
