@@ -10,6 +10,7 @@
 # PURPOSE: This script is used to analyse micobiome data. 
 #          It is based on the logistic Dirichlet process random effects model.
 #          Produces Bayesian posterior estimates for OTU effects.
+# ***************************************************#
 
 
 #' The function for association study with microbiome abundance data from 16S rRNA sequencing. 
