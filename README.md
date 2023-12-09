@@ -3,10 +3,8 @@ ___
 #### Function for analysis of microbiome data from 16S rRNA gene sequencing.
 ##### Version: 1.0
 ___
-*Author: Denis Awany <<awanydenis@gmail.com>>*
 
-
-The R function `PhyloDPM()` implemements a Bayesian statistical method I developed for analysis of microbiome data from 16S rRNA sequencing. The framework, based on the Dirichlet Process Random (DP) Effects Model, is used to identify microbial taxa (Operational Taxonomic Units (OTUs) asscoiated with a given host phenotype. 
+The R function `PhyloDPM()` implemements a Bayesian statistical method we proposed for analysis of microbiome data from 16S rRNA sequencing. The framework, based on the Dirichlet Process Random (DP) Effects Model, is used to identify microbial taxa (Operational Taxonomic Units (OTUs) asscoiated with a given host phenotype. 
 
 The method uses a weighted combination of phylogenetic- and radial basis function (RBF)-defined kernels to model microbial taxa effects, and a non-parametrically defined latent variable (model as a Dirichlet Process) to model latent heterogeneity across samples.
 
